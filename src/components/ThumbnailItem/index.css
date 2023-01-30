@@ -1,0 +1,14 @@
+/* Write your code here. */
+.thumbnail-item {
+  list-style-type: none;
+}
+.button {
+  outline: none;
+  margin-right: 10px;
+  margin-left: 0px;
+  background-color: #ffffff;
+  border: 0px;
+}
+.active {
+  opacity: 1;
+}

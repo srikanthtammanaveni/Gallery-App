@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: row;
+}
+.image-container {
+  margin-top: 10px;
+}
+.thumbanail-container {
+  padding-left: 0px;
+}
+.img {
+  height: 240px;
+  width: 750px;
+}
+.text-container {
+  margin-top: 10px;
+}
+.thumbanail-container {
+  display: flex;
+}
